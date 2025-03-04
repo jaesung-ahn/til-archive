@@ -4,7 +4,7 @@ module.exports = {
     theme: 'vuepress-theme-hope',
     title: 'ahnjs TIL',
     description: 'Today I Learned',
-    base: '/TIL/',
+    base: '/til-archive/',
     themeConfig: {
         pageInfo: [],
         sidebar: [
