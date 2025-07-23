@@ -1,7 +1,6 @@
 # TIL
 > Today I Learned  
-
-[jaesungahn91.github.io/til](https://jaesungahn91.github.io/TIL/):book:
+[jaesung-ahn.github.io/til](https://jaesung-ahn.github.io/til-archive):book:
 
 ---
 ## Static Site Generator
